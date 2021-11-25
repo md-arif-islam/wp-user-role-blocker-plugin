@@ -5,7 +5,7 @@ Plugin URI:
 Description:
 Version: 1.0
 Author: Arif Islam
-Author URI: arifislam.techviewing.com
+Author URI: https://arifislam.techviewing.com
 License: GPLv2 or later
 Text Domain: urb
 Domain Path: /languages/
